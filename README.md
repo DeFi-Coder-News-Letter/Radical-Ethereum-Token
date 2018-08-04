@@ -4,7 +4,7 @@ Basic ERC20 token on Solidity 0.4.24. Includes updated constructor definitions.
 
 You can deploy immediately by downloading [Metamask](https://metamask.io/) and going to Ethereum's in-browser [Remix IDE](https://remix.ethereum.org/).
 
-Before going live on the Ethereum main net, you can test for free on a test network like Ropsten.
+Before going live on the Ethereum mainnet, you can test for free on a test network like Ropsten.
 
 In the contract code, set:
 1. The token name.
